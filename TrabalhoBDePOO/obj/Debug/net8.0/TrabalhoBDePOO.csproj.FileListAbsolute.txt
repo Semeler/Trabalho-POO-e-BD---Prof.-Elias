@@ -1,0 +1,76 @@
+D:\IFRO\3° Período\POO\TrabalhoBDePOO\obj\Debug\net8.0\TrabalhoBDePOO.GeneratedMSBuildEditorConfig.editorconfig
+D:\IFRO\3° Período\POO\TrabalhoBDePOO\obj\Debug\net8.0\TrabalhoBDePOO.AssemblyInfoInputs.cache
+D:\IFRO\3° Período\POO\TrabalhoBDePOO\obj\Debug\net8.0\TrabalhoBDePOO.AssemblyInfo.cs
+D:\IFRO\3° Período\POO\TrabalhoBDePOO\obj\Debug\net8.0\TrabalhoBDePOO.csproj.CoreCompileInputs.cache
+D:\IFRO\3° Período\POO\TrabalhoBDePOO\bin\Debug\net8.0\TrabalhoBDePOO.exe
+D:\IFRO\3° Período\POO\TrabalhoBDePOO\bin\Debug\net8.0\TrabalhoBDePOO.deps.json
+D:\IFRO\3° Período\POO\TrabalhoBDePOO\bin\Debug\net8.0\TrabalhoBDePOO.runtimeconfig.json
+D:\IFRO\3° Período\POO\TrabalhoBDePOO\bin\Debug\net8.0\TrabalhoBDePOO.dll
+D:\IFRO\3° Período\POO\TrabalhoBDePOO\bin\Debug\net8.0\TrabalhoBDePOO.pdb
+D:\IFRO\3° Período\POO\TrabalhoBDePOO\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+D:\IFRO\3° Período\POO\TrabalhoBDePOO\bin\Debug\net8.0\Google.Protobuf.dll
+D:\IFRO\3° Período\POO\TrabalhoBDePOO\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+D:\IFRO\3° Período\POO\TrabalhoBDePOO\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+D:\IFRO\3° Período\POO\TrabalhoBDePOO\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+D:\IFRO\3° Período\POO\TrabalhoBDePOO\bin\Debug\net8.0\MySql.Data.dll
+D:\IFRO\3° Período\POO\TrabalhoBDePOO\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\IFRO\3° Período\POO\TrabalhoBDePOO\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\IFRO\3° Período\POO\TrabalhoBDePOO\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+D:\IFRO\3° Período\POO\TrabalhoBDePOO\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\IFRO\3° Período\POO\TrabalhoBDePOO\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\IFRO\3° Período\POO\TrabalhoBDePOO\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\IFRO\3° Período\POO\TrabalhoBDePOO\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\IFRO\3° Período\POO\TrabalhoBDePOO\bin\Debug\net8.0\ZstdSharp.dll
+D:\IFRO\3° Período\POO\TrabalhoBDePOO\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+D:\IFRO\3° Período\POO\TrabalhoBDePOO\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+D:\IFRO\3° Período\POO\TrabalhoBDePOO\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+D:\IFRO\3° Período\POO\TrabalhoBDePOO\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+D:\IFRO\3° Período\POO\TrabalhoBDePOO\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+D:\IFRO\3° Período\POO\TrabalhoBDePOO\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+D:\IFRO\3° Período\POO\TrabalhoBDePOO\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\IFRO\3° Período\POO\TrabalhoBDePOO\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+D:\IFRO\3° Período\POO\TrabalhoBDePOO\obj\Debug\net8.0\TrabalhoBDePOO.csproj.AssemblyReference.cache
+D:\IFRO\3° Período\POO\TrabalhoBDePOO\obj\Debug\net8.0\Trabalho.338B6CDB.Up2Date
+D:\IFRO\3° Período\POO\TrabalhoBDePOO\obj\Debug\net8.0\TrabalhoBDePOO.dll
+D:\IFRO\3° Período\POO\TrabalhoBDePOO\obj\Debug\net8.0\refint\TrabalhoBDePOO.dll
+D:\IFRO\3° Período\POO\TrabalhoBDePOO\obj\Debug\net8.0\TrabalhoBDePOO.pdb
+D:\IFRO\3° Período\POO\TrabalhoBDePOO\obj\Debug\net8.0\TrabalhoBDePOO.genruntimeconfig.cache
+D:\IFRO\3° Período\POO\TrabalhoBDePOO\obj\Debug\net8.0\ref\TrabalhoBDePOO.dll
+C:\Users\Lucas\Desktop\TrabalhoBDePOO\bin\Debug\net8.0\TrabalhoBDePOO.exe
+C:\Users\Lucas\Desktop\TrabalhoBDePOO\bin\Debug\net8.0\TrabalhoBDePOO.deps.json
+C:\Users\Lucas\Desktop\TrabalhoBDePOO\bin\Debug\net8.0\TrabalhoBDePOO.runtimeconfig.json
+C:\Users\Lucas\Desktop\TrabalhoBDePOO\bin\Debug\net8.0\TrabalhoBDePOO.dll
+C:\Users\Lucas\Desktop\TrabalhoBDePOO\bin\Debug\net8.0\TrabalhoBDePOO.pdb
+C:\Users\Lucas\Desktop\TrabalhoBDePOO\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\Lucas\Desktop\TrabalhoBDePOO\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\Lucas\Desktop\TrabalhoBDePOO\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\Lucas\Desktop\TrabalhoBDePOO\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Lucas\Desktop\TrabalhoBDePOO\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\Lucas\Desktop\TrabalhoBDePOO\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\Lucas\Desktop\TrabalhoBDePOO\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Lucas\Desktop\TrabalhoBDePOO\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lucas\Desktop\TrabalhoBDePOO\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Lucas\Desktop\TrabalhoBDePOO\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\Lucas\Desktop\TrabalhoBDePOO\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Lucas\Desktop\TrabalhoBDePOO\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Lucas\Desktop\TrabalhoBDePOO\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Lucas\Desktop\TrabalhoBDePOO\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\Lucas\Desktop\TrabalhoBDePOO\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\Lucas\Desktop\TrabalhoBDePOO\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Lucas\Desktop\TrabalhoBDePOO\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Lucas\Desktop\TrabalhoBDePOO\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Lucas\Desktop\TrabalhoBDePOO\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Lucas\Desktop\TrabalhoBDePOO\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\Lucas\Desktop\TrabalhoBDePOO\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Lucas\Desktop\TrabalhoBDePOO\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\Lucas\Desktop\TrabalhoBDePOO\obj\Debug\net8.0\TrabalhoBDePOO.csproj.AssemblyReference.cache
+C:\Users\Lucas\Desktop\TrabalhoBDePOO\obj\Debug\net8.0\TrabalhoBDePOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Desktop\TrabalhoBDePOO\obj\Debug\net8.0\TrabalhoBDePOO.AssemblyInfoInputs.cache
+C:\Users\Lucas\Desktop\TrabalhoBDePOO\obj\Debug\net8.0\TrabalhoBDePOO.AssemblyInfo.cs
+C:\Users\Lucas\Desktop\TrabalhoBDePOO\obj\Debug\net8.0\TrabalhoBDePOO.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\TrabalhoBDePOO\obj\Debug\net8.0\Trabalho.338B6CDB.Up2Date
+C:\Users\Lucas\Desktop\TrabalhoBDePOO\obj\Debug\net8.0\TrabalhoBDePOO.dll
+C:\Users\Lucas\Desktop\TrabalhoBDePOO\obj\Debug\net8.0\refint\TrabalhoBDePOO.dll
+C:\Users\Lucas\Desktop\TrabalhoBDePOO\obj\Debug\net8.0\TrabalhoBDePOO.pdb
+C:\Users\Lucas\Desktop\TrabalhoBDePOO\obj\Debug\net8.0\TrabalhoBDePOO.genruntimeconfig.cache
+C:\Users\Lucas\Desktop\TrabalhoBDePOO\obj\Debug\net8.0\ref\TrabalhoBDePOO.dll
